@@ -1,6 +1,7 @@
 # Random-Password-Generation
 
-Description
+Description:
+
 This site is shows the functionality of Javascript implemented in with HTML & CSS to create a Random Password Generator.
 
 When the user wishes to generate a new password, they have the freedom to select if they would like the alphabet, special characters, numbers, or all together in their randomly generated password.
@@ -10,7 +11,8 @@ The user also has the ability to select the length of the password generated wit
 When the user clickes the generate password button a password will generate in accordance to whatever criteria the user has selected. 
 When the user clicks the generate password button again following the initial click, the text box will reset and regenerate a password to the specific length determined. 
 
-Screenshots
+
+Screenshots:
 
 The image below shows the parameters for the length value of the password as well as the seperated checkBox div, allowing me to generate a block display for the check boxes underthe generate password button.
 ![HTML](https://user-images.githubusercontent.com/107973681/180890266-ce2c939e-734b-4a02-a18d-2d76a9265913.png)
