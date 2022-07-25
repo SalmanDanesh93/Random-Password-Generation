@@ -64,12 +64,18 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
+
 }
 
 .card-footer::after {
   content: " ";
   display: block;
   clear: both;
+}
+
+/* Set display of checkboxes to block so that the align below the  */
+.checkBox {
+  display: block;
 }
 
 .btn {
@@ -134,4 +140,7 @@ button[disabled] {
   .btn {
     font-size: 0.8rem;
   }
-}
+} 
+
+
+ 
