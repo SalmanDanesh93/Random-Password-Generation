@@ -25,16 +25,16 @@ The image below shows the parameters for the first click event listener for the 
 Shows the the logic for the computer to determine if the user unchecked or checked a certain variable box.
 ![JS EventListener 1stclick](https://user-images.githubusercontent.com/107973681/180890846-d72ffb9e-fe33-4394-b8cc-275ab174f9e2.png)
 
+The image below shows what the user will see on the site with all boxes checked and the password generated.
+![site - all variables generated](https://user-images.githubusercontent.com/107973681/180891137-33b1c499-1de5-4ff6-b731-5e3060aa9b42.png)
+
 The image below shows the logic used to generate and return the random password. It uses the Math.floor & Math.Random logic to achieve a truly random collection of variables that adhere to the parameters determined by the user.
 ![JS generatePassword](https://user-images.githubusercontent.com/107973681/180890969-c98c23a8-da86-4d8b-adcb-677d281ee87e.png)
 
 The image below shows the parameters that reset the value of the password textbox each time the user reclicks the generate password button following the initial click.
 ![JS Reset TextBox](https://user-images.githubusercontent.com/107973681/180891065-70920ed1-925c-4889-8652-10e90ebccd94.png)
 
-The image below shows what the user will see on the site with all boxes checked and the password generated.
-![site - all variables generated](https://user-images.githubusercontent.com/107973681/180891137-33b1c499-1de5-4ff6-b731-5e3060aa9b42.png)
-
-The image below shows what the user will see on the site with the alphabet characters excluded from the random password that is generated.
+The image below shows what the user will see on the site with the alphabet excluded from the random password that is generated.
 ![site - alphabet excluded](https://user-images.githubusercontent.com/107973681/180891223-2872795d-d80f-430a-845a-1127389eb4ca.png)
 
 The image below shows what the user will see on the site with the numbers excluded from the random password that is generated.
